@@ -227,6 +227,14 @@ ul li .home-btn {
   .carousel-item img {
     max-height: 350px;
   }
+
+  .agileits_search .form-control{
+    font-size: 14px;
+  }
+  .agileits_search .btn{
+    font-size: 14px;
+  }
+
 }
 
 .section-header {
@@ -367,8 +375,6 @@ ul li .home-btn {
   text-transform: capitalize;
   font-size: 18px;
 }
-
-
 
 
 .blog-section .container .card .col-md-3  .card:hover {
