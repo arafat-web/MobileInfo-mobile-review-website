@@ -423,3 +423,12 @@ ul li .home-btn {
   font-size: 15px;
 }
 
+.brands-name a{
+  display: block;
+  border: 1px solid #50505056;
+  color: rgb(78, 78, 78);
+}
+.brands-name a:hover{
+  background-color: #f45c5d;
+  color: white;
+}
